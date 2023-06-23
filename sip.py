@@ -1,2 +1,3 @@
 print('darbar')
+print('drinks')
 

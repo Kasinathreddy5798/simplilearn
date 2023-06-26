@@ -1,3 +1,0 @@
-print('darbar')
-print('drinks')
-
